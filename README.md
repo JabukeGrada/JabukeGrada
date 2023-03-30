@@ -3,14 +3,8 @@
 <div style="display: inline_block; margin-top: 15px;">
   <img alt="unity" height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img alt="csharp" height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-</div>
-
-### Cloud Tools
-
-<div style="display: inline_block; margin-top: 15px;">
   <img alt="aws" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img alt="docker" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-  <img alt="bash" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 </div>
 
 <div align="center" style="display: inline_block"><br>
